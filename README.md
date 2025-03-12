@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Hi, I'm Mostafa!
 
-<!--
-**babaei-mostafa/babaei-mostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** specialized in **React.js** and **Next.js**. I love building scalable and high-performance web applications. Passionate about clean code, best practices, and optimizing user experiences.  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Material UI, Bootstrap, HTML, CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Testing:** Jest, React Testing Library  
+- **Version Control:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- **Email:** [mostafa.bsh@gmail.com](mailto:mostafa.bsh@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/babaei-mostafa](https://linkedin.com/in/babaei-mostafa)  
+- **Portfolio:** [https://mostafababaei.netlify.app](https://https://mostafababaei.netlify.app/)  
+
+🚀 Always open to new opportunities and collaborations! Let's build something amazing.  
