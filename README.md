@@ -1,6 +1,6 @@
 # Hi, I'm Mostafa!
 
-I'm a **Web Developer** specialized in **React.js** and **Next.js**. I love building scalable and high-performance web applications. Passionate about clean code, best practices, and optimizing user experiences.  
+I'm a **Web Developer** specialized in **React.js**, **Next.js**, **Node.js**, and **Express.js**. I love building scalable and high-performance web applications. Passionate about clean code, best practices, and optimizing user experiences.  
 
 ## Tech Stack
 - **Frontend:** React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Material UI, Bootstrap, HTML, CSS  
