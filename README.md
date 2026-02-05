@@ -11,6 +11,6 @@ I'm a **Web Developer** specialized in **React.js**, **Next.js**, **Node.js**, a
 ## Connect with Me  
 - **Email:** [mostafa.bsh@gmail.com](mailto:mostafa.bsh@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/babaei-mostafa](https://linkedin.com/in/babaei-mostafa)  
-- **Portfolio:** [https://mostafababaei.netlify.app](https://https://mostafababaei.netlify.app/)  
+- **Portfolio:** [https://mostafababaei.netlify.app](https://mostafababaei.netlify.app/)  
 
 Always open to new opportunities and collaborations! Let's build something amazing.  
